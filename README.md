@@ -1,2 +1,2 @@
-# ds_learning_activities
+# Data Science Practice Activities
 These are a series of learning activities for data science students
